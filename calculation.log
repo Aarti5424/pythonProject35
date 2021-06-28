@@ -1,0 +1,30 @@
+2021-06-27 22:31:33,113:WARNING:a=3 and b=4 are equal
+2021-06-27 22:31:33,121:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:31:33,121:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:36:12,949:WARNING:a=3 and b=4 are equal
+2021-06-27 22:36:12,949:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:36:12,949:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:39:27,909:WARNING:a=3 and b=4 are equal
+2021-06-27 22:39:27,909:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:39:27,909:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:46:55,026:WARNING:a=3 and b=4 are equal
+2021-06-27 22:46:55,026:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:46:55,041:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:37,091:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:37,091:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:37,091:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:46,496:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:46,496:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:46,496:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:47,936:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:47,936:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:47,936:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:48,925:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:48,925:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:48,925:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:50,186:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:50,186:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:50,186:CRITICAL:Hypotenuse of 3, 4 is 5.0
+2021-06-27 22:49:51,299:WARNING:a=3 and b=4 are equal
+2021-06-27 22:49:51,299:ERROR:a=3 and b=4 cannot be negative
+2021-06-27 22:49:51,299:CRITICAL:Hypotenuse of 3, 4 is 5.0
